@@ -1,0 +1,5 @@
+This project includes code ported from or bundled with the following projects.
+
+- Lucide (lucide-react 0.474.0): ISC License. Copyright (c) Lucide Contributors 2022. Portions copyright (c) Cole Bemis 2013-2022, as part of Feather (MIT).
+- Tabler Icons (@tabler/icons-react 3.34.1): MIT License. Copyright (c) 2020-2024 Paweł Kuna.
+- Hugeicons (@hugeicons/core-free-icons 1.2.1): MIT License. Copyright (c) Hugeicons.
